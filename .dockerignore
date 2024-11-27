@@ -1,0 +1,12 @@
+# Binaries
+main
+
+# Vendor
+vendor
+
+# IDE files
+.idea
+.vscode
+
+# Other
+.DS_Store
